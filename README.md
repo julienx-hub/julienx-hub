@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="gifs/pixel.gif" width="100%" height="50px">
+<img src="gifs/pixel.gif" width="100%" height="1px">
 
 <br>
 
