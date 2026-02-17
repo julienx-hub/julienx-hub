@@ -1,51 +1,50 @@
+<div align="center" style="position: relative; width: 100%;">
 
-<!--
-**julienx-hub/julienx-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center" style="position: relative; width: 100%; max-height: 500px; overflow: hidden;">
-
+  <!-- GIF en arrière-plan -->
   <img src="gifs/avion.gif" width="100%" style="display: block;">
 
+  <!-- Overlay texte -->
   <div style="
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background: rgba(0, 0, 0, 0.55);
-    padding: 40px 60px;
-    border-radius: 8px;
-    backdrop-filter: blur(4px);">
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  ">
 
-    <h1 style="
-      margin: 0;
-      font-weight: 500;
-      letter-spacing: 2px;
-      color: white;
-      font-size: 42px;">
-      Portfolio
-    </h1>
-    <p style="
-      margin-top: 12px;
-      color: #e0e0e0;
-      font-size: 16px;
-      letter-spacing: 1px;">
-      Projets académiques & développement logiciel
-    </p>
+    <div style="
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 30px 50px;
+      border-radius: 6px;
+      text-align: center;
+    ">
+
+      <h1 style="
+        margin: 0;
+        font-weight: 500;
+        letter-spacing: 2px;
+        color: white;
+      ">
+        Portfolio
+      </h1>
+
+      <p style="
+        margin-top: 12px;
+        color: #e0e0e0;
+        font-size: 16px;
+      ">
+        Projets académiques & développement logiciel
+      </p>
+
+    </div>
+
   </div>
-</div>
 
+</div>
 
 <br><br>
 
