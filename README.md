@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center" style="position: relative; width: 100%; max-height: 500px; overflow: hidden;">
 
   <img src="gifs/avion.gif" width="100%" style="display: block;">
@@ -25,30 +26,24 @@ Here are some ideas to get you started:
     background: rgba(0, 0, 0, 0.55);
     padding: 40px 60px;
     border-radius: 8px;
-    backdrop-filter: blur(4px);
-  ">
+    backdrop-filter: blur(4px);">
 
     <h1 style="
       margin: 0;
       font-weight: 500;
       letter-spacing: 2px;
       color: white;
-      font-size: 42px;
-    ">
+      font-size: 42px;">
       Portfolio
     </h1>
-
     <p style="
       margin-top: 12px;
       color: #e0e0e0;
       font-size: 16px;
-      letter-spacing: 1px;
-    ">
+      letter-spacing: 1px;">
       Projets académiques & développement logiciel
     </p>
-
   </div>
-
 </div>
 
 
