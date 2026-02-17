@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="assets/header-minimal.png" width="100%">
+<img src="gifs/pixel.gif" width="100%">
 
 <br>
 
