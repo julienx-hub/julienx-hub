@@ -23,7 +23,7 @@ L’objectif était de modéliser un système de livraisons respectant des contr
 ## Approche technique
 
 <p align="center">
-  <img src="img/appli_IHM_algo.PNG" width="70%">
+  <img src="img/sae_IHM_algo.PNG" width="70%">
 </p>
 
 - Modélisation par graphe orienté  
