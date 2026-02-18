@@ -23,7 +23,7 @@ L’objectif était de modéliser un système de livraisons respectant des contr
 ## Approche technique
 
 <p align="center">
-  <img src="assets/java-architecture.png" width="70%">
+  <img src="img/appli_IHM.PNG" width="70%">
 </p>
 
 - Modélisation par graphe orienté  
