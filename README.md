@@ -1,6 +1,14 @@
 <div align="center">
   <img src="gifs/avion.gif" width="100%">
 </div>
+<p align="center">
+  👋 Bienvenue sur mon portfolio !  
+  Vous découvrirez ici l’ensemble des projets que j’ai réalisés ces deux dernières années en  
+  <strong>JAVA</strong>, <strong>PHP</strong>, <strong>PYTHON</strong>, <strong>HTML</strong>, <strong>CSS</strong> et <strong>PostgreSQL</strong>.  
+  Bonne visite 🚀
+</p>
+
+<br><br>
 
 <br><br>
 
