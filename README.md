@@ -10,7 +10,7 @@
 ### Livraison Pokémon – Java
 
 <p align="center">
-  <img src="assets/project-java-hero.png" width="85%">
+  <img src="img/appli_IHM.PNG" width="85%">
 </p>
 
 ## Présentation
@@ -23,7 +23,7 @@ L’objectif était de modéliser un système de livraisons respectant des contr
 ## Approche technique
 
 <p align="center">
-  <img src="img/appli_IHM.PNG" width="70%">
+  <img src="img/appli_IHM_algo.PNG" width="70%">
 </p>
 
 - Modélisation par graphe orienté  
